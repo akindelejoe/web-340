@@ -1,1 +1,7 @@
-# WEB 340 - Node.js
+# WEB 330 Enterprise JavaScript II
+
+## Contributors
+- Instructor: [Professor Richard Krasso]
+- [Joe Akindele
+]
+
