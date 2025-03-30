@@ -1,0 +1,13 @@
+{
+    "name": "joeakindele",
+    "version": "1.0.0",
+    "description": "Cooking App",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "node tester.js"
+    },
+    "author": "joeakindele",
+    "license": "ISC"
+  }
+  
