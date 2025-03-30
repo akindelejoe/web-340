@@ -1,4 +1,4 @@
-# WEB 330 Enterprise JavaScript II
+# WEB 340
 
 ## Contributors
 - Instructor: [Professor Richard Krasso]
