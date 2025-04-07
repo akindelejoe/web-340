@@ -1,0 +1,13 @@
+{
+    "name": "distance-calculator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/distance-calculator.js",
+    "scripts": {
+    "start": "node src/distance-calculator.js",
+    "test": "node test/distance-calculator.spec.js"  
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
